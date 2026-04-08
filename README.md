@@ -19,7 +19,7 @@ How It Works
 - Converts each selected file to PDF in the chosen destination
 
 Usage
-python converter.py
+- python converter.py
 
 Notes
 - The conversion relies on PowerPoint's native export functionality via COM
