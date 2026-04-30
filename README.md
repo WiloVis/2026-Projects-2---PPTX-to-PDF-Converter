@@ -1,4 +1,4 @@
-# 2026-Projects-2---PPTX-to-PDF-Converter
+# 2026 PPTX to PDF Converter
 PPTX/PPT to PDF Converter (Windows)
 A lightweight Python tool that converts PowerPoint files (.pptx, .ppt) to PDF format using a simple GUI dialog interface.
 
